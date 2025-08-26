@@ -1,0 +1,128 @@
+/* Custom styles for the academic website */
+
+body {
+  font-family: "Fiat Lux", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* Main title styling - outside header section */
+h1 {
+  color: #010133; /* Blue Dark */
+  font-size: 3.5rem;
+  font-family: "Source Serif 4", "Times New Roman", Times, serif;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+/* Professor title styling - outside header section */
+.professor-title {
+  margin-bottom: 2rem;
+  font-weight: bold;
+}
+
+/* Header section with Google Sites-like styling */
+.header-section {
+  background-color: #002676; /* Berkeley Blue */
+  color: white;
+  padding: 2rem 1rem;
+  margin: 0 -50vw 2rem -50vw;
+  margin-left: calc(-50vw + 50%);
+  margin-right: calc(-50vw + 50%);
+  padding-left: calc(50vw - 50%);
+  padding-right: calc(50vw - 50%);
+}
+
+.header-section a {
+  color: #e8f0fe;
+}
+
+.header-section a:hover {
+  color: white;
+}
+
+.profile-photo {
+  width: 100%;
+  max-width: 200px;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+/* Publications list styling */
+.quarto-title-block .quarto-title-banner {
+  display: none;
+}
+
+/* Section headings - serif font, no underline */
+h2 {
+  color: #010133; /* Blue Dark */
+  font-family: "Source Serif 4", "Times New Roman", Times, serif;
+  font-weight: bold;
+  border-bottom: none;
+  padding-bottom: 0.5rem;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+/* Fix bullet points to be smaller and properly formatted */
+.content p {
+  margin-bottom: 0.8rem;
+}
+
+/* Style lists with solid square markers */
+ul {
+  list-style-type: square;
+  padding-left: 1.2em;
+}
+
+ul li {
+  margin-bottom: 0.8rem;
+}
+
+/* Link styling */
+a {
+  color: #2980b9;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #3498db;
+  text-decoration: underline;
+}
+
+/* Remove navigation styling since we removed navbar */
+.navbar {
+  display: none;
+}
+
+/* Footer styling */
+.page-footer {
+  background-color: #2c3e50;
+  color: white;
+  margin-top: 3rem;
+  padding: 1rem 0;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .header-section {
+    padding: 1.5rem 0;
+  }
+  
+  .header-section .columns {
+    flex-direction: column;
+    padding: 0 1.5rem;
+  }
+  
+  .header-section .column {
+    width: 100% !important;
+    margin-bottom: 1rem;
+  }
+  
+  .profile-photo {
+    max-width: 150px;
+    margin: 0 auto 1rem auto;
+    display: block;
+  }
+}
