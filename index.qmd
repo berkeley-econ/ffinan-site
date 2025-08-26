@@ -1,0 +1,68 @@
+---
+title: ""
+---
+
+# Fred Finan
+
+::: {.professor-title}
+Professor of Economics
+:::
+
+::: {.header-section}
+:::: {.columns}
+
+::: {.column width="30%"}
+![](images/fred-finan.jpg){.profile-photo}
+:::
+
+::: {.column width="70%"}
+**Department of Economics**  
+515 Evans Hall  
+[ffinan@berkeley.edu](mailto:ffinan@berkeley.edu)
+
+[Curriculum Vitae](FinanCV_Homepage.pdf)
+
+**Mailing address**
+
+University of California  
+Department of Economics  
+651 Evans Hall #3880  
+Berkeley, CA 94720
+:::
+
+::::
+:::
+
+## Recent Working Papers
+
+- [Climate Politics in the United States](papers/Finan_Climate.pdf), with Matilde Bombardini, Nicolas Longuet-Marx, Suresh Naidu, Francesco Trebbi, 2025.
+- [Decoupling Taste-Based versus Statistical Discrimination in Elections](papers/Finan_GAP.pdf), with Amanda de Albuquerque, Anubhav Jha, Laura Karpuska, Francesco Trebbi, 2025.
+- [When Democracy Refuses to Die: Evaluating a Training Program for New Politicians](papers/Finan_Renova.pdf), with Ernesto Dal Bo, Claudio Ferraz, Pedro Pessoa, 2024.
+- [Reinforcing RCTs with Multiple Priors while Learning about External Validity](papers/Finan_RL.pdf), with Demian Pouzo, 2024.
+- [Procuring Firm Growth: The Effects of Government Purchases on Firm Dynamics](papers/Finan_Procurement.pdf), with Claudio Ferraz and Dimitri Szerman, February 2016.
+- [Motivating Politicians: The Impacts of Monetary Incentives on Quality and Performance](papers/Finan_MPoliticians.pdf), with Claudio Ferraz, August 2010.
+
+## Selected Publications
+
+- [Brokering Votes with Information Spread Via Social Networks](papers/Finan_VBNetworks.pdf), with Raul Duarte, Horacio Larreguy, Laura Schechter, 2025. Forthcoming at *Review of Economic Studies*.
+- [Combating Political Corruption with Policy Bundles](papers/Finan_Corruption.pdf), with Maurizio Mazzocco, 2024, Forthcoming at *Journal of Political Economy*.
+- [Political Power, Elite Control, and Long-Run Development: Evidence from Brazil](papers/Finan_Dictator.pdf), with Claudio Ferraz and Monica Martinez-Bravo, 2024, *Journal of European Economic Association*. 22(6), 2870 - 2908.
+- [Economic and Social Outsiders but Political Insiders: Sweden's Populist Radical Right](papers/Finan_SwedenDemocrats.pdf), with Ernesto Dal Bo, Olle Folke, Torsten Persson, and Johanna Rickne. *Review of Economic Studies*, 2023, 90(2), 675–706. [Web Appendix](papers/Finan_SwedenDemocrats_WA.pdf)
+- [Money and Politics: Estimating the Effects of Campaign Spending Limits on Political Entry and Selection](papers/Finan_Limits.pdf), with Eric Avis, Claudio Ferraz, and Carlos Varjao, 2021. *American Economic Journal: Applied Economics*, 14(4), 167–99.
+- [Voting with One's Neighbors: Evidence from Migration within Mexico](papers/Finan_Turnout.pdf), with Enrique Seira and Alberto Simpser, 2021.  *Journal of Public Economics*, 2021, 202.
+- [Electoral Incentives and the Allocation of Public Funds](papers/Finan_Deputies.pdf), with Maurizio Mazzocco, *Journal of European Economic Association*, 2021, 19:5, 2467-2512.
+- [Information Technology and Government Decentralization: Experimental Evidence from Paraguay](papers/Finan_Cellphones.pdf), with Ernesto Dal Bo, Nicholas Li, and Laura Schechter, *Econometrica*, 2021, 89(2), 677-701.
+- [Progress and Perspectives in the Study of Political Selection](papers/Finan_AnnualReview.pdf), with Ernesto Dal Bo, *Annual Review of Economics*,  2018; 10:1, 541-575.
+- [Do Government Audits Reduce Corruption? Estimating the Impacts of Exposing Corrupt Politicians](papers/Finan_PoliticalSelection.pdf), with Eric Avis and Claudio Ferraz, *Journal of Political Economy*, 2018, 126:5, 1912-1964.
+- [Who Becomes a Politician?](papers/Finan_Sweden.pdf), with Ernesto Dal Bo, Olle Folke, Torsten Persson, and Johanna Rickne, *Quarterly Journal of Economics*, 2017,  132(4), 1877-1914.
+- [The Personnel Economics of the State](papers/Finan_Handbook.pdf), with Benjamin A. Olken and Rohini Pande, *Handbook of Economic Field Experiments*, 2017, 2, 467-514.
+- [Strengthening State Capabilities: The Role of Financial Incentives in the Call to Public Service](papers/Finan_StateCap.pdf), with Ernesto Dal Bo and Martin A. Rossi, *Quarterly Journal of Economics*, 2013, 128(3): 1169-1218.
+- [Corrupting Learning: Evidence from Missing Federal Education Funds in Brazil](papers/Finan_Education.pdf), with Claudio Ferraz and Diana B. Moreira, *Journal of Public Economics*, 2012, 96(9-10), 712-726.
+- [Local Electoral Accountability and Decentralized Program Performance](papers/Finan_Bolsa.pdf), with Alain de Janvry and Elisabeth Sadoulet, *Review of Economics and Statistics*, 2012, 94(3): 672-685.
+- [Vote-buying and Reciprocity](papers/Finan_VB.pdf), with Laura Schechter, *Econometrica*, 2012, 80(2): 863-882.
+- [Electoral Accountability and Corruption in Local Governments: Evidence from Audit Reports](papers/Finan_Termlimits.pdf), with Claudio Ferraz, *American Economic Review*, 2011, 101: 1274-1311.
+- [Neighborhood Peer Effects in Secondary School Enrollment Decisions](papers/Finan_Peer.pdf), with Gustavo Bobonis, *Review of Economics and Statistics*, 2009, 91(4): 695-716.
+- [Exposing Corrupt Politicians: The Effect of Brazil's Publicly Released Audits on Electoral Outcomes](papers/Finan_Audit.pdf), with Claudio Ferraz, *Quarterly Journal of Economics*, 2008; 123(2): 703-745.
+- [Can Conditional Cash Transfers Serve as Safety Nets to Keep Children at School and Out of the Labor Market?](papers/Finan_Shocks.pdf), with Alain de Janvry, Elisabeth Sadoulet, and Renos Vakis, *Journal of Development Economics*, 2005; 79(2): 349-373.
+- [Measuring the Income Generating Potential of Land in Rural Mexico](papers/Finan_Land.pdf), with Alain de Janvry and Elisabeth Sadouet, *Journal of Development Economics*, 2005; 77:27-51.
+
