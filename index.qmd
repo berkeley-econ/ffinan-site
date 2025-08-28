@@ -2,7 +2,7 @@
 title: ""
 ---
 
-# Fred Finan
+# Frederico Finan
 
 ::: {.professor-title}
 Professor of Economics
