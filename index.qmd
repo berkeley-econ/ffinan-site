@@ -69,4 +69,3 @@ Berkeley, CA 94720
 
 - [Procuring Firm Growth: The Effects of Government Purchases on Firm Dynamics](papers/wp/Finan_Procurement.pdf), with Claudio Ferraz and Dimitri Szerman, February 2016.
 - [Motivating Politicians: The Impacts of Monetary Incentives on Quality and Performance](papers/wp/Finan_MPoliticians.pdf), with Claudio Ferraz, August 2010.
-
