@@ -35,6 +35,7 @@ Berkeley, CA 94720
 
 ## Recent Working Papers
 
+- [Learning about Treatment Effects with Prior Studies: A Bayesian Model Averaging Approach](papers/wp/Finan_Learning.pdf), with Demian Pouzo, 2026.
 - [Climate Politics in the United States](papers/wp/Finan_Climate.pdf), with Matilde Bombardini, Nicolas Longuet-Marx, Suresh Naidu, Francesco Trebbi, 2025.
 - [Decoupling Taste-Based versus Statistical Discrimination in Elections](papers/wp/Finan_GAP.pdf), with Amanda de Albuquerque, Anubhav Jha, Laura Karpuska, Francesco Trebbi, 2025.
 - [When Democracy Refuses to Die: Evaluating a Training Program for New Politicians](papers/wp/Finan_Renova.pdf), with Ernesto Dal Bo, Claudio Ferraz, Pedro Pessoa, 2024, (R&R at the *American Economic Review*)
@@ -69,4 +70,3 @@ Berkeley, CA 94720
 
 - [Procuring Firm Growth: The Effects of Government Purchases on Firm Dynamics](papers/wp/Finan_Procurement.pdf), with Claudio Ferraz and Dimitri Szerman, February 2016.
 - [Motivating Politicians: The Impacts of Monetary Incentives on Quality and Performance](papers/wp/Finan_MPoliticians.pdf), with Claudio Ferraz, August 2010.
-
